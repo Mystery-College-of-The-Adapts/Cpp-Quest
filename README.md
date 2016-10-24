@@ -3,7 +3,7 @@
 ## CS106L TODO
 
 
-- [ ] Introduction
+- [X] Introduction
 
     - [X] chap0 - What's is C++
     - [X] chap1 - Getting Started
