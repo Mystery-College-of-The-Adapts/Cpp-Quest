@@ -5,8 +5,8 @@
 
 - [ ] Introduction
 
-    - [ ] chap0 - What's is C++
-    - [ ] chap1 - Getting Started
-    - [ ] chap2 - C++ without genlib.h 
+    - [X] chap0 - What's is C++
+    - [X] chap1 - Getting Started
+    - [X] chap2 - C++ without genlib.h 
 
     
