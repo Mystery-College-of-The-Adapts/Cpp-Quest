@@ -1,6 +1,6 @@
 /*
 * HelloWorld.cpp
-* Created by: qubit
+* Created by: Anderson B
 * Oct 24, 2016
 * 7:32:56 AM
 */
