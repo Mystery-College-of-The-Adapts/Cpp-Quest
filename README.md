@@ -48,7 +48,7 @@
     
 ## CS106X: Programming Abstractions(Accelerated)
 
-[http://stanford.edu/class/archive/cs/cs106x/cs106x.1162/assignments.html](Assignments)
+[Assignments](http://stanford.edu/class/archive/cs/cs106x/cs106x.1162/assignments.html)
 
 - [X] course overview; intro to C++
 
@@ -59,9 +59,9 @@
 
 - [ ] C++ functions; string
 
-    - [ ] read Ch. 2-3
+    - [x] read Ch. 2-3
     - [ ] CodeStepByStep: parameterMysteryBCA, xkcdDatingRange, quadratic, returnMystery1, BMI, stringMysteryAB, nameDiamond
-    - [ ] C++ docs
+    - [x] C++ docs
     - [ ] Stanford C++ lib
 
 
