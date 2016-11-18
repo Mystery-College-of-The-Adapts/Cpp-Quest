@@ -48,13 +48,13 @@
     
 ## CS106X: Programming Abstractions(Accelerated)
 
-[!http://stanford.edu/class/archive/cs/cs106x/cs106x.1162/assignments.html](Assignments)
+[http://stanford.edu/class/archive/cs/cs106x/cs106x.1162/assignments.html](Assignments)
 
-- [ ] course overview; intro to C++
+- [X] course overview; intro to C++
 
-    - [ ] read Ch. 1-2
-    - [ ] C++ handout
-    - [ ] CodeStepByStep: HelloWorld, StanfordVsCal
+    - [X] read Ch. 1-2
+    - [x] C++ handout
+    - [X] CodeStepByStep: HelloWorld, StanfordVsCal
 
 
 - [ ] C++ functions; string
